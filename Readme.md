@@ -25,7 +25,7 @@ Additionally set the browser to Chrome or Firefox
 
 # Viewing results
 
-After a run is complete, the results are available in the file `results\log.html`
+After a run is complete, the results are available in the file `results/log.html`
 
 # Technical improvement ideas
 
